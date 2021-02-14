@@ -1,0 +1,12 @@
+yarn init -y
+yarn add apollo-server-express express graphql reflect-metadata type-graphql
+yarn add -D @types/express @types/graphql @types/node nodemon ts-node typescript
+
+yarn add pg typeorm bcryptjs
+yarn add -D @types/bcryptjs
+yarn add sequelize-typescript@1.0
+yarn add ts-node-dev --dev
+yarn add class-validator
+yarn add -D jest
+
+yarn add mysql2 bcryptjs sequelize @types/validator sequelize-typescript
